@@ -16,10 +16,3 @@ ORDER BY average_assignment_duration DESC;
 
 
 
-
-
-
-
-
-
-
